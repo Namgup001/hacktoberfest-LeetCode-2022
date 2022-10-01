@@ -12,3 +12,8 @@
 - Place: Noida, India
 - Bio: Aspiring Programmer
 - GitHub - imshubh69
+
+##### Name - Naman
+- Place: Allahabad, India
+- Bio: Aspiring Programmer
+- GitHub - Namgup001
