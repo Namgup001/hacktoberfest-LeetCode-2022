@@ -12,3 +12,9 @@
 - Place: Noida, India
 - Bio: Aspiring Programmer
 - GitHub - imshubh69
+
+
+#### Name: [Naman Gupta](https://github.com/Namgup001)
+- Place: Allahabad, UP, India
+- Bio: FInal year Undergrad, aspiring Software Engineer
+- GitHub: [Namgup001](https://github.com/Namgup001)
