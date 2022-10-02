@@ -79,6 +79,11 @@
 - Place: Vellore, Tamil Nadu, India
 - Bio: Computer Science Undergrad, MERN Stack Web Developer
 - GitHub: [Srishti2128](https://github.com/Srishti2128)
+
+#### Name: [Naman Gupta](https://github.com/Namgup001)
+- Place: Allahabad, UP, India
+- Bio: Production and Industrial Engineering Undergrad, NIT Allahabad, MERN Stack Web Developer
+- GitHub: [Namgup001](https://github.com/Namgup001)
 =======
 **Any questions regarding anything - implementation, clarification on policies, further reading suggestions, etc.?**
 - Open an Issue with appropriate tags.
